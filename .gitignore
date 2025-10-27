@@ -43,3 +43,5 @@ out/
 .copilot/
 .gemini/
 opencode.json
+releases/
+out/
