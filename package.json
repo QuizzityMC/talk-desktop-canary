@@ -1,12 +1,12 @@
 {
   "private": true,
   "name": "talk-desktop",
-  "productName": "Nextcloud Talk",
-  "desktopName": "com.nextcloud.talk.desktop",
+  "productName": "Canary Cloud Talk",
+  "desktopName": "com.canarycloud.talk.desktop",
   "version": "2.0.2",
   "bugs": {
-    "url": "https://github.com/nextcloud/talk-desktop/issues",
-    "create": "https://github.com/nextcloud/talk-desktop/issues/new/choose"
+    "url": "https://github.com/QuizzityMC/talk-desktop-canary/issues",
+    "create": "https://github.com/QuizzityMC/talk-desktop-canary/issues/new/choose"
   },
   "license": "AGPL-3.0-or-later",
   "author": {
@@ -16,7 +16,7 @@
   "main": "./.webpack/main",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nextcloud/talk-desktop"
+    "url": "https://github.com/QuizzityMC/talk-desktop-canary"
   },
   "scripts": {
     "start": "npm run dev",

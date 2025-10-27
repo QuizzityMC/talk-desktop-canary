@@ -1,14 +1,14 @@
 {
-	"applicationName": "Nextcloud Talk",
-	"domain": null,
-	"enforceDomain": false,
-	"brandColor": "#0082C9",
-	"brandFontColor": "#FFFFFF",
-	"helpUrl": "https://nextcloud.com/talk/",
-	"privacyUrl": "https://nextcloud.com/privacy/",
+	"applicationName": "Canary Cloud Talk",
+	"domain": "https://talk.thalizar.info",
+	"enforceDomain": true,
+	"brandColor": "#FFD700",
+	"brandFontColor": "#000000",
+	"helpUrl": "https://talk.thalizar.info/",
+	"privacyUrl": "https://talk.thalizar.info/privacy/",
 	"windowsExe": true,
 	"windowsMsi": true,
-	"macosDmg": true,
+	"macosDmg": false,
 	"linuxFlatpak": true,
 	"linuxZip": true
 }

@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 652 652" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
-    <g transform="matrix(1,0,0,1,-186,-186)">
-        <path id="path25" d="M511.959,186C333.142,186.003 186,333.141 186,511.951C186,511.954 186,511.957 186,511.96C186,690.77 333.142,837.909 511.959,837.911C571.619,837.79 630.117,821.293 681.049,790.225C721.111,806.144 810.847,853.372 832.204,832.972C854.522,811.66 806.003,711.354 794.371,674.081C822.79,624.772 837.804,568.869 837.915,511.958C837.912,333.151 690.773,186.016 511.96,186.011L511.959,186ZM511.996,309.923C622.875,309.923 714.114,401.16 714.114,512.035C714.107,622.905 622.87,714.132 511.996,714.132C401.123,714.132 309.886,622.905 309.879,512.035L309.879,512.035C309.879,401.16 401.118,309.923 511.996,309.923L511.996,309.923Z"/>
-    </g>
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="yellowGrad3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#FFD700;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#FFA500;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Speech bubble icon -->
+  <path d="M 50,5 A 35,35 0 0 0 15,40 a 35,35 0 0 0 35,35 35,35 0 0 0 18,-5 c 4,2 14,7 16,5 2.5,-2.5 -3,-13 -4,-17 a 35,35 0 0 0 5,-18 35,35 0 0 0 -35,-35 z m 0,13 A 22,22 0 0 1 72,40 22,22 0 0 1 50,62 22,22 0 0 1 28,40 22,22 0 0 1 50,18 Z" fill="url(#yellowGrad3)" />
 </svg>

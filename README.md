@@ -3,43 +3,20 @@
   - SPDX-License-Identifier: CC0-1.0
 -->
 
-# Nextcloud Talk Desktop
+# Canary Cloud Talk Desktop
 
-[![REUSE status](https://api.reuse.software/badge/github.com/nextcloud/talk-desktop)](https://api.reuse.software/info/github.com/nextcloud/talk-desktop)
-[![GitHub Release Stable](https://img.shields.io/github/v/release/nextcloud-releases/talk-desktop?sort=semver&display_name=tag&style=flat)](https://github.com/nextcloud-releases/talk-desktop/releases/latest)
-[![GitHub Release Beta](https://img.shields.io/github/v/release/nextcloud-releases/talk-desktop?include_prereleases&sort=semver&display_name=tag&style=flat)](https://github.com/nextcloud-releases/talk-desktop/releases/)
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/nextcloud-releases/talk-desktop/total?style=flat)
-
-> Official Nextcloud Talk Desktop client
-
-![Nextcloud Talk](./Nextcloud-Talk-light.png#gh-light-mode-only)
-![Nextcloud Talk](./Nextcloud-Talk-dark.png#gh-dark-mode-only)
+> Desktop client for Canary Cloud Talk (Nextcloud Talk instance at https://talk.thalizar.info/)
 
 ## 📥 Install
 
-All binaries and `beta` releases are available on [Nextcloud Releases](https://github.com/nextcloud-releases/talk-desktop/releases).
+Download the latest release for your platform:
 
-| Platform (arch)          | Distribution type                                                                                                           | Download link                                                                                                                                        |
-|--------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **🐧 Linux** (x64)       | [Flatpak](https://flatpak.org) single file (recommended)                                                                    | [Nextcloud.Talk-linux-x64.flatpak](https://github.com/nextcloud-releases/talk-desktop/releases/latest/download/Nextcloud.Talk-linux-x64.flatpak)     |
-| **🐧 Linux** (x64)       | ZIP archive                                                                                                                 | [Nextcloud.Talk-linux-x64.zip](https://github.com/nextcloud-releases/talk-desktop/releases/latest/download/Nextcloud.Talk-linux-x64.zip)             |
-| **🍎 macOS** (Universal) | Disc Image                                                                                                                  | [Nextcloud.Talk-macos-universal.dmg](https://github.com/nextcloud-releases/talk-desktop/releases/latest/download/Nextcloud.Talk-macos-universal.dmg) |
-| **🪟 Windows** (x64)     | Non-admin single-user one-click installer (recommended)                                                                     | [Nextcloud.Talk-windows-x64.exe](https://github.com/nextcloud-releases/talk-desktop/releases/latest/download/Nextcloud.Talk-windows-x64.exe)         |
-| **🪟 Windows** (x64)     | [MSI](https://github.com/electron-userland/electron-wix-msi/blob/master/guides/enduser.md) (for administrated environments) | [Nextcloud.Talk-windows-x64.msi](https://github.com/nextcloud-releases/talk-desktop/releases/latest/download/Nextcloud.Talk-windows-x64.msi)         |
-
-### via Package manager
-
-| Platform       | Package manager                                                                       | Command                              | Status                                                                                    |
-|----------------|---------------------------------------------------------------------------------------|--------------------------------------|-------------------------------------------------------------------------------------------|
-| **🪟 Windows** | [Windows Package Manager](https://learn.microsoft.com/en-us/windows/package-manager/) | `winget install Nextcloud.Talk`      | ![WinGet Package Version](https://img.shields.io/winget/v/Nextcloud.Talk?style=flat)      |
-| **🪟 Windows** | [Windows Package Manager](https://learn.microsoft.com/en-us/windows/package-manager/) | `winget install Nextcloud.Talk.Beta` | ![WinGet Package Version](https://img.shields.io/winget/v/Nextcloud.Talk.Beta?style=flat) |                                                                                     |
-
-#### Community supported packages
-
-| Platform       | Package manager                                           | Command                        | Status                                                                                       |
-|----------------|-----------------------------------------------------------|--------------------------------|----------------------------------------------------------------------------------------------|
-| **🍎 macOS** | [Homebrew](https://formulae.brew.sh/cask/nextcloud-talk#default) | `brew install --cask nextcloud-talk` | ![Homebrew Package](https://img.shields.io/homebrew/cask/v/nextcloud-talk?style=flat) | 
-| **🪟 Windows** | [Chocolatey Community](https://community.chocolatey.org/) | `choco install nextcloud-talk` | ![Chocolatey Package Version](https://img.shields.io/chocolatey/v/nextcloud-talk?style=flat) |
+| Platform (arch)          | Distribution type                                     | Download link                                                  |
+|--------------------------|-------------------------------------------------------|----------------------------------------------------------------|
+| **🐧 Linux** (x64)       | Flatpak single file (recommended)                     | Available from releases                                        |
+| **🐧 Linux** (x64)       | ZIP archive                                           | Available from releases                                        |
+| **🪟 Windows** (x64)     | Non-admin single-user one-click installer            | Available from releases                                        |
+| **🪟 Windows** (x64)     | MSI (for administrated environments)                  | Available from releases                                        |
 
 ## 🏗️ Prerequisites
 
